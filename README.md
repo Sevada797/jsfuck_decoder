@@ -8,4 +8,4 @@ after pasting main.js just paste the JSFuck code :D
 
 Tho I may fix that 
 
-Use in browser URL data:, to not perform Self-XSS 
+Use in browser URL `data:,` to not perform Self-XSS if you don't know who wrote the code
